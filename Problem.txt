@@ -1,0 +1,13 @@
+ A shape with four vertices and sides is known as a quadrilateral. Square, rectangle,
+kite, rhombus, trapezium, and parallelogram are all quadrilaterals. Write a C++ program for
+guessing the type of the quadrilateral. Your program should guess correctly, in case of incorrect
+input, display appropriate message. Phrase all questions in a way that user must enter some boolean
+value Y/N as an answer. Both Y/y are treated as ‘Yes’.
+Example:
+Think of a quadrilateral from square, rectangle, kite, rhombus, trapezium and parallelogram and I
+will guess it....
+Let’s start
+[Optional: you can place counter here like display 3, 2, 1....]
+Q1. Are all sides equal? (Y or N) Y
+Q2. Are all angles 90 degrees? (Y or N) Y
+I got it! It’s a SQUARE.
